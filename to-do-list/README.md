@@ -15,7 +15,9 @@ Ou pode instalar pelo terminal seguindo as intrunções abaixo:
 
 ### 1. Verifique se o .NET SDK não está instalado
 
+``` 
 dotnet --version
+```
 
 Se você não receber uma versão como resultado, significa que o .NET SDK não está instalado e você pode continuar com os próximos passos.
 
@@ -24,21 +26,29 @@ Se você não receber uma versão como resultado, significa que o .NET SDK não 
 ## Linux
 
 ### Adicione a chave de assinatura Microsoft
+```
 wget https://packages.microsoft.com/config/ubuntu/21.04/packages-microsoft-prod.deb -O packages-microsoft-prod.deb
 sudo dpkg -i packages-microsoft-prod.deb
+```
 
 ### Instale o .NET SDK
+```
 sudo apt-get update
 sudo apt-get install -y dotnet-sdk-6.0
+```
 
 ## macOS
 
 
 ### Baixe o instalador do .NET SDK para macOS
+```
 wget https://download.visualstudio.microsoft.com/download/pr/26a26de0-8167-4f67-ba27-acab5f451888/5417dd5a88e7b149dcb33e49de1db2c6/dotnet-sdk-6.0.100-preview.7.21379.14-osx-x64.pkg -O dotnet-sdk.pkg
+```
 
 ### Instale o .NET SDK
+```
 sudo installer -pkg dotnet-sdk.pkg -target /
+```
 
 ## Windows
 
@@ -46,14 +56,37 @@ sudo installer -pkg dotnet-sdk.pkg -target /
 
 ### 3. Verifique a instalação
 Após a instalação, verifique novamente se o .NET SDK foi instalado corretamente executando o seguinte comando no terminal:
-
+```
 dotnet --version
+```
 
 Agora, você deverá ver a aplicação To-Do List em execução no terminal.
 
 ## Uso
 
 A aplicação To-Do List é interativa e você pode seguir as instruções no terminal para adicionar, ver tarefas e remover tarefas.
+
+## Como Executar
+
+Siga as etapas abaixo para executar o projeto:
+
+### 1. Clone este repositório para o seu sistema usando o comando:
+```
+ git clone git@github.com:Benhurcarvalho/C-sharp-exercise.git
+```
+### 2 Navegue até o diretório do projeto:
+```
+cd to-do-list/
+```
+### 3 Compile o projeto usando o seguinte comando:
+```
+dotnet build
+```
+### 4 Execute o projeto com o seguinte comando:
+```
+dotnet run
+```
+Agora, você deverá ver a aplicação To-Do List em execução no terminal.
 
 ## Contribuição
 
