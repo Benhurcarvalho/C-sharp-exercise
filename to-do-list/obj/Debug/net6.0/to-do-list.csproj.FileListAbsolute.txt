@@ -1,0 +1,15 @@
+/home/ben-hur/Documentos/Trybe/GitHub/C-sharp-exercise/to-do-list/bin/Debug/net6.0/to-do-list
+/home/ben-hur/Documentos/Trybe/GitHub/C-sharp-exercise/to-do-list/bin/Debug/net6.0/to-do-list.deps.json
+/home/ben-hur/Documentos/Trybe/GitHub/C-sharp-exercise/to-do-list/bin/Debug/net6.0/to-do-list.runtimeconfig.json
+/home/ben-hur/Documentos/Trybe/GitHub/C-sharp-exercise/to-do-list/bin/Debug/net6.0/to-do-list.dll
+/home/ben-hur/Documentos/Trybe/GitHub/C-sharp-exercise/to-do-list/bin/Debug/net6.0/ref/to-do-list.dll
+/home/ben-hur/Documentos/Trybe/GitHub/C-sharp-exercise/to-do-list/bin/Debug/net6.0/to-do-list.pdb
+/home/ben-hur/Documentos/Trybe/GitHub/C-sharp-exercise/to-do-list/obj/Debug/net6.0/to-do-list.csproj.AssemblyReference.cache
+/home/ben-hur/Documentos/Trybe/GitHub/C-sharp-exercise/to-do-list/obj/Debug/net6.0/to-do-list.GeneratedMSBuildEditorConfig.editorconfig
+/home/ben-hur/Documentos/Trybe/GitHub/C-sharp-exercise/to-do-list/obj/Debug/net6.0/to-do-list.AssemblyInfoInputs.cache
+/home/ben-hur/Documentos/Trybe/GitHub/C-sharp-exercise/to-do-list/obj/Debug/net6.0/to-do-list.AssemblyInfo.cs
+/home/ben-hur/Documentos/Trybe/GitHub/C-sharp-exercise/to-do-list/obj/Debug/net6.0/to-do-list.csproj.CoreCompileInputs.cache
+/home/ben-hur/Documentos/Trybe/GitHub/C-sharp-exercise/to-do-list/obj/Debug/net6.0/to-do-list.dll
+/home/ben-hur/Documentos/Trybe/GitHub/C-sharp-exercise/to-do-list/obj/Debug/net6.0/ref/to-do-list.dll
+/home/ben-hur/Documentos/Trybe/GitHub/C-sharp-exercise/to-do-list/obj/Debug/net6.0/to-do-list.pdb
+/home/ben-hur/Documentos/Trybe/GitHub/C-sharp-exercise/to-do-list/obj/Debug/net6.0/to-do-list.genruntimeconfig.cache
